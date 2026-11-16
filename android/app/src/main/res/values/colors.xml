@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Page colour of the app (AppColors.background), so the native splash
+         blends into the first Flutter frame. -->
+    <color name="splash_background">#FCFCFC</color>
+
+    <!-- Brand teal of the logo mark (AppColors.primary): adaptive launcher
+         icon background. -->
+    <color name="ic_launcher_background">#005879</color>
+</resources>
